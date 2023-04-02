@@ -6,12 +6,9 @@ Querying download counts directly from R with the 'cranlogs' package [(Csárdi G
 
 - [Script - `.R`]()
 
-<img src="">
+<img src="https://github.com/fblpalmeira/waffle/blob/main/data/waffle.png">
 
 References: 
 
-[Csárdi G (2019).](https://cranlogs.r-pkg.org/) cranlogs: Download Logs from the 'RStudio' 'CRAN' Mirror. R package version
-  2.1.1, <https://CRAN.R-project.org/package=cranlogs>.
-
-[Wilkins D (2021).](https://CRAN.R-project.org/package=treemapify) treemapify: Draw Treemaps in 'ggplot2'. R package version 2.5.5,
-  <https://CRAN.R-project.org/package=treemapify>.
+[Gilbey L (2022).](https://github.com/liamgilbey/ggwaffle) ggwaffle: Waffle Charts_. R package version
+  0.2.5, <https://github.com/liamgilbey/ggwaffle>.
