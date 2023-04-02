@@ -10,7 +10,7 @@ By far, mosquitoes are the deadliest animal on earth [(Gates Notes).](https://qu
 
 References: 
 
-[(Gates Notes).](https://quiz.gatesnotes.com/Malaria2016) The deadliest animal in the world, 2015.
+[Gates Notes.](https://quiz.gatesnotes.com/Malaria2016) The deadliest animal in the world, 2015.
 
 [Gilbey L (2022).](https://github.com/liamgilbey/ggwaffle) ggwaffle: Waffle Charts_. R package version
   0.2.5, <https://github.com/liamgilbey/ggwaffle>.
