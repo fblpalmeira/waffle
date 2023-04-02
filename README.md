@@ -2,7 +2,7 @@
 
 # Day 2 (2 April 2023) | Waffle
 
-By far, mosquitoes are the deadliest animal on earth [(Gates Notes).](https://quiz.gatesnotes.com/Malaria2016) Crocodile, Hippopotamus, Elephant, Lion, Tiger, Wolf, Shark and other species represented only 1% of the kills.
+By far, mosquitoes are the deadliest animal on earth [(Gates Notes).](https://quiz.gatesnotes.com/Malaria2016) Crocodile, Hippopotamus, Elephant, Lion, Tiger, Wolf, Shark and other species represented only 1% of the killings.
 
 - [Script - `.R`](https://github.com/fblpalmeira/waffle/blob/main/data/waffle_icons.R)
 
